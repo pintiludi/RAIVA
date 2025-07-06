@@ -1,0 +1,128 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bot Secretos ⚫️</title>
+  <style>
+    body {
+      background-color: #0e0e0e;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .produto {
+      background: #1c1c1c;
+      border: 1px solid #333;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 15px;
+    }
+    .produto h2 {
+      margin: 0;
+    }
+    .preco {
+      color: #00ff00;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+    .botao {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    .botao:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛒 Loja Bot Secretos</h1>  <div class="produto">
+    <h2>Tralalelitos</h2>
+    <p class="preco">R$ 10,00</p>
+    <a href="https://pay.kiwify.com.br/yF78dEi" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Tralalelitos GOLD</h2>
+    <p class="preco">R$ 11,00</p>
+    <a href="https://pay.kiwify.com.br/fxToTEo" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Tralalelitos DIAMOND</h2>
+    <p class="preco">R$ 12,00</p>
+    <a href="https://pay.kiwify.com.br/VoDpz3y" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Tralalelitos RAINBOW</h2>
+    <p class="preco">R$ 15,00</p>
+    <a href="https://pay.kiwify.com.br/UTjM9ek" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Vaca Saturnita</h2>
+    <p class="preco">R$ 8,00</p>
+    <a href="https://pay.kiwify.com.br/btiLot8" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Vaca Saturnita GOLD</h2>
+    <p class="preco">R$ 9,00</p>
+    <a href="https://pay.kiwify.com.br/OFCOem4" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Vaca Saturnita DIAMOND</h2>
+    <p class="preco">R$ 10,00</p>
+    <a href="https://pay.kiwify.com.br/kZFqjCk" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Vaca Saturnita RAINBOW</h2>
+    <p class="preco">R$ 13,00</p>
+    <a href="https://pay.kiwify.com.br/l3esCT1" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Medusi</h2>
+    <p class="preco">R$ 15,00</p>
+    <a href="https://pay.kiwify.com.br/VtoSCoE" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Medusi GOLD</h2>
+    <p class="preco">R$ 16,00</p>
+    <a href="https://pay.kiwify.com.br/KK17UtF" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Medusi DIAMOND</h2>
+    <p class="preco">R$ 17,00</p>
+    <a href="https://pay.kiwify.com.br/l17ZHyY" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>Medusi RAINBOW</h2>
+    <p class="preco">R$ 20,00</p>
+    <a href="https://pay.kiwify.com.br/sO7tftE" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>LÁ Combinasione</h2>
+    <p class="preco">R$ 20,00</p>
+    <a href="https://pay.kiwify.com.br/77dXioS" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>LÁ Combinasione GOLD</h2>
+    <p class="preco">R$ 21,00</p>
+    <a href="https://pay.kiwify.com.br/MeXBE27" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>LÁ Combinasione DIAMOND</h2>
+    <p class="preco">R$ 22,00</p>
+    <a href="https://pay.kiwify.com.br/Gxpv3Ik" class="botao">Comprar Agora</a>
+  </div>
+  <div class="produto">
+    <h2>LÁ Combinasione RAINBOW</h2>
+    <p class="preco">R$ 25,00</p>
+    <a href="https://pay.kiwify.com.br/7c3AkN6" class="botao">Comprar Agora</a>
+  </div>
+</body>
+</html>
